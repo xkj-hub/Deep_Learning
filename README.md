@@ -1,4 +1,6 @@
 # image-caption-generator
 使用文件training_caption_generator.ipynb进行模型训练
+
 使用文件testing_caption_generator.py进行图像的摘要生成
+
 数据集使用Flicker8k_Dataset
